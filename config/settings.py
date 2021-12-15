@@ -140,8 +140,8 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 # S3를 사용할 수 있는 곳
 # 1. Static
 
-AWS_ACCESS_KEY_ID = 'AKIAV3KINSRMTYY7X433'
-AWS_SECRET_ACCESS_KEY = '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'
+AWS_ACCESS_KEY_ID = '#'
+AWS_SECRET_ACCESS_KEY = '#'
 AWS_REGION = 'ap-northeast-2'
 AWS_STORAGE_BUCKET_NAME = 'dhmovietaste'
 
